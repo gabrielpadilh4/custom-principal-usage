@@ -1,0 +1,9 @@
+{
+    "client-id" : "test", 
+    "provider-url" : "http://localhost:8080/realms/test", 
+    "ssl-required" : "external", 
+     "credentials" : {
+        "secret" : "sjQ21ymby83QVXePwqEjC2FzZfBCaDNo" 
+     },
+     "principal-attribute": "preferred_username"
+}

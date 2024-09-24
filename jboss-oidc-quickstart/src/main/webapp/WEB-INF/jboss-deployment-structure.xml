@@ -1,0 +1,8 @@
+<jboss-deployment-structure>
+    <deployment>
+        <dependencies>
+            <module name="org.wildfly.security.elytron-http-oidc"/>
+            <module name="custom-oidc-principal-transformer"/>
+        </dependencies>
+    </deployment>
+</jboss-deployment-structure>
